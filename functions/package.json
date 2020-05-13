@@ -1,0 +1,18 @@
+{
+  "name": "adviceapi",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "package.json",
+  "author": "Artem Rosnovsky <artem@rosnovsky.us>",
+  "scripts": {
+    "build": "npm install"
+  },
+  "keywords": [
+    "sanity"
+  ],
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {}
+}
