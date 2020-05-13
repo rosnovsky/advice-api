@@ -1,0 +1,10 @@
+node_modules
+.vscode
+.netlify
+plugins
+schemas
+static
+README.md
+sanity.json
+tsconfig.json
+config
